@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/morcosIbra/minimal-lerna/compare/@your-username/alpha@0.1.0...@your-username/alpha@0.1.1) (2020-12-29)
+
+
+### Bug Fixes
+
+* typo in message ([b81fab2](https://github.com/morcosIbra/minimal-lerna/commit/b81fab21a514d36af8a3f5bbec1a529bf8504cf3))
+
+
+
+
+
 # 0.1.0 (2020-12-29)
 
 

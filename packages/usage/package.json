@@ -1,8 +1,8 @@
 {
   "name": "@your-username/usage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
-    "@your-username/alpha": "^0.1.0",
+    "@your-username/alpha": "^0.1.1",
     "@your-username/beta": "^0.1.0"
   }
 }

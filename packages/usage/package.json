@@ -4,5 +4,6 @@
   "dependencies": {
     "@your-username/alpha": "^0.1.2",
     "@your-username/beta": "^0.1.0"
-  }
+  },
+  "gitHead": "18bf1621c45fe895ca6b39a650d50846564ad8d6"
 }

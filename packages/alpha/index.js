@@ -1,1 +1,1 @@
-module.exports = "alphaaa_tane";
+module.exports = "alphaaaww_tane";

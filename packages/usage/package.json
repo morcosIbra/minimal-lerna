@@ -1,8 +1,8 @@
 {
   "name": "@your-username/usage",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "dependencies": {
-    "@your-username/alpha": "^0.1.4",
+    "@your-username/alpha": "^0.1.5",
     "@your-username/beta": "^0.1.0"
   },
   "gitHead": "433e49375bbed290175beca13bf26e3868850c5d"

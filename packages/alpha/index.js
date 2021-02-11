@@ -1,1 +1,1 @@
-module.exports = "alphaaaww_tane";
+module.exports = "newversion_tane";
